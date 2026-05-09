@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/Agents/BB_AgentMaster.uasset",
+				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/Agents/BP_AgentControllerMaster.uasset",
+				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/Blueprints/Buildings/BP_BuildingMaster.uasset",
+				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/CityBuilderPlayerController.uasset",
+				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/Agents/BP_AgentMaster.uasset",
 				"C:/Users/mikir/Documents/DinoCityBuilder/Content/AfterRestart/UI/BP_MainUI.uasset",
 				"C:/Users/mikir/Documents/DinoCityBuilder/Content/AfterRestart/BP_CityBuilderGameState.uasset",
 				"C:/Users/mikir/Documents/DinoCityBuilder/Content/AfterRestart/UI/BP_BuildingCell.uasset",
