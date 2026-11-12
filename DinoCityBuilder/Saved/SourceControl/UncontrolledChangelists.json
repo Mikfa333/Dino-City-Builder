@@ -91,6 +91,9 @@
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset",
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/AI/ABP_AgentMaster.uasset",
+<<<<<<< HEAD
+				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/Spino_Waifu_No_Background.uasset",
+=======
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/Blueprints/Buildings/BP_Road.uasset",
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZH/G7QU7918CAOTSBHPG2C4QD.uasset",
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XE/QU10CB2JPXICYP33KE7QMZ.uasset",
@@ -199,6 +202,7 @@
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/K3/DORP1RGQMDSFIMQPVYFCYA.uasset",
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SL/K8UXDSK04VBXCA6S1F0WDP.uasset",
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/0GUAULIQPAS0GABYJH4OCM.uasset",
+>>>>>>> AI
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/AI/BTTask_IdleMovementTask.uasset",
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/AI/NewBlueprint.uasset",
 				"C:/Users/mikir/Documents/Dino-City-Builder/DinoCityBuilder/Content/AfterRestart/AI/IdleMovementTask.uasset",
